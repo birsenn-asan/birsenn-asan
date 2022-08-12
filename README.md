@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @birsenn-asan
+- I am currently learning javascript, React, bootstrap, php
 - I am interested in front-end and web hacking
 - 🌱 I've just joined a bootcamp on front-end
 - I specialize in Cyber Security.
